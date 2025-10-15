@@ -1,1 +1,1 @@
-# Auto-QA-Lrn 
+First meeting in Auto QA
